@@ -1,5 +1,5 @@
-📌 Explorando CrewAI - Estudos e Projetos
-Oie! 👋 Esse repositório é onde estou reunindo meus estudos e experimentos com CrewAI, um framework super interessante para criar sistemas multi-agentes de IA.
+📌 ###Explorando CrewAI - Estudos e Projetos
+Fala aí! 👋 Esse repositório é onde estou reunindo meus estudos e experimentos com CrewAI, um framework super interessante para criar sistemas multi-agentes de IA.
 
 Atualmente, estou fazendo o curso:
 🎓 Multi AI Agent Systems with CrewAI
